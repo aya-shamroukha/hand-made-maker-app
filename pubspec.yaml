@@ -49,6 +49,9 @@ dependencies:
   dartz:
   shimmer:
   image_picker:
+  curved_navigation_bar:
+  awesome_dialog:
+
 
 dev_dependencies:
   flutter_test:
